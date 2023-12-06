@@ -1,0 +1,2 @@
+robots = input().split(";")
+
